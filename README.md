@@ -6,7 +6,7 @@ Eigen Faces<br />
 ![image](https://github.com/mvipinchand/Face-Dataset-Compression-Recognition-using-Principal-Component-Analysis-and-SVM-Algorithms/assets/73341926/e2fe8a5d-8353-43b7-9809-c0d76cfb1595)<br />
 Retains 99% Variance:<br />
 Hence 577 components
-![image](https://github.com/mvipinchand/Face-Dataset-Compression-Recognition-using-Principal-Component-Analysis-and-SVM-Algorithms/assets/73341926/1aceb1b4-b559-4889-ac7d-303d84da2a33)<br />
+![image](https://github.com/mvipinchand/Face-Dataset-Compression-Recognition-using-Principal-Component-Analysis-and-SVM-Algorithms/assets/73341926/60946f1a-d983-4eac-832f-7e99d1e7d1a5)
 By comparing the two experimental results Before PCA and Post PCA we can see a rise in accuracy from 82 to 86%, it is found that the precision and recall performance indexes of face recognition have been significantly improved after PCA dimensionality reduction. The reason is that the dimensionality reduction not only reduces the computational complexity, but also removes some noise data, which is conducive to machine learning, and then improves the accuracy of face recognition. <br />
 ![image](https://github.com/mvipinchand/Face-Dataset-Compression-Recognition-using-Principal-Component-Analysis-and-SVM-Algorithms/assets/73341926/0b41a810-f214-48ac-88c5-7545d5581ca3)
 
